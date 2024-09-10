@@ -3,7 +3,7 @@
 export default {
   data() {
     return {
-      message: 'Template Vite + Vue'
+      message: 'La mia prima app con Vite!'
     }
   }
 }
@@ -22,12 +22,7 @@ export default {
 
 <style scoped>
 header {
-    background-color: aquamarine;
     text-align: center;
-}
-
-h1 {
-    color: lightcoral;
 }
 </style>
 
